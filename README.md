@@ -37,13 +37,19 @@ It features **dark mode, 3D hover animations**, and a clean, professional UI.
 ## 📂 Folder Structure
 
 student-management-system/
+
 ├── index.html # Login page
+
 ├── signup.html # Signup page
+
 ├── home.html # Student Management page
-├── dashboard.html # Dashboard page
+
 ├── css/
+
 │ └── style.css # All styles
+
 ├── js/
+
 │ ├── script.js # Combined JS for auth & student management
 
 
